@@ -47,12 +47,19 @@ Open your browser at http://127.0.0.1:5000
 lung-xray-detection/
 │
 ├─ app.py                   # Main Flask app
+
 ├─ best_harshita.pt         # Trained YOLOv8 model
+
 ├─ templates/               # HTML templates
+
 │   ├─ index.html           # Upload page
+
 │   └─ result.html          # Detection results page
+
 ├─ static/                  # Optional: CSS/JS/images
+
 ├─ requirements.txt         # Python dependencies
+
 └─ README.md                # Project documentation
 
 # Usage
