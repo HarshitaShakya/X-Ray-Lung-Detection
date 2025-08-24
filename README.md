@@ -1,4 +1,4 @@
-# X-Ray-Lung-Detection
+<img width="1883" height="894" alt="Screenshot 2025-08-23 153649" src="https://github.com/user-attachments/assets/07195e5b-b2a1-4a30-9a0b-b6b9b846196b" /><img width="1916" height="1018" alt="Screenshot 2025-08-23 154524" src="https://github.com/user-attachments/assets/1b7aa03b-d7b3-4e7f-830e-0b4e7b1ad768" /># X-Ray-Lung-Detection
 
 A web-based AI application that detects lung regions and abnormalities from X-ray images using YOLOv8 and Flask. Users can upload chest X-ray images and receive a detailed detection report with bounding boxes, confidence scores, and a summary of findings.
 
@@ -76,5 +76,12 @@ lung-xray-detection/
 -Summary of detected lungs, abnormalities, and other findings
 
 -Detailed table with confidence scores
+
+
+
+<img width="1919" height="1008" alt="Screenshot 2025-08-23 154552" src="https://github.com/user-attachments/assets/294f1a11-292e-4e48-87bd-f27486cc3c72" />
+
+
+
 
 
