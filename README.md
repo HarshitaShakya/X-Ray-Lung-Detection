@@ -79,11 +79,11 @@ lung-xray-detection/
 
 
 
-<img width="100" height="70" alt="Screenshot 2025-08-23 154552" src="https://github.com/user-attachments/assets/294f1a11-292e-4e48-87bd-f27486cc3c72" />
+<img width="500" height="400" alt="Screenshot 2025-08-23 154552" src="https://github.com/user-attachments/assets/294f1a11-292e-4e48-87bd-f27486cc3c72" />
 
-<img width="100" height="70" alt="Screenshot 2025-08-23 153649" src="https://github.com/user-attachments/assets/06106410-bf78-4ec8-bbfa-93c80b9c79cc" />
+<img width="500" height="400" alt="Screenshot 2025-08-23 153649" src="https://github.com/user-attachments/assets/06106410-bf78-4ec8-bbfa-93c80b9c79cc" />
 
-<img width="100" height="70" alt="Screenshot 2025-08-23 154524" src="https://github.com/user-attachments/assets/a8c0713d-c8ab-408e-9173-3ac9a033ed3c" />
+<img width="500" height="400" alt="Screenshot 2025-08-23 154524" src="https://github.com/user-attachments/assets/a8c0713d-c8ab-408e-9173-3ac9a033ed3c" />
 
 
 
