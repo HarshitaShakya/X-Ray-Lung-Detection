@@ -77,6 +77,8 @@ lung-xray-detection/
 
 -Detailed table with confidence scores
 
+# Results:
+
 
 
 <img width="500" height="400" alt="Screenshot 2025-08-23 154552" src="https://github.com/user-attachments/assets/294f1a11-292e-4e48-87bd-f27486cc3c72" />
